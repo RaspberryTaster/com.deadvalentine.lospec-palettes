@@ -1,0 +1,17 @@
+﻿using System.Collections.Generic;
+using UnityEngine;
+
+namespace DarkFantasia.Lospec
+{
+	public class PaletteInformation
+	{
+		public string name = "No Name";
+		public string author = "No Author";
+		public string[] colors = new string[0];
+
+		public List<Color> GetColors()
+		{
+			return ColorLibrary.ConvertColors(colors);
+		}
+	}
+}

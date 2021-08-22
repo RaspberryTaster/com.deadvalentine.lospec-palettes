@@ -1,0 +1,18 @@
+{
+  "name": "com.deadvalentine.lospec-palettes",
+  "version": "1.0.0",
+  "displayName": "Lospec Palettes",
+  "description": "Allows you to download color palettes directly from https://lospec.com/",
+  "unity": "2019.1",
+  "keywords": [
+    "Color",
+    "Utility",
+    "Palette",
+    "Lospec"
+  ],
+  "author": {
+    "name": "Anon",
+    "email": "GIVEMERASPBERRY@GMAIL.COM",
+    "url": "https://www.youtube.com/channel/UCv8XF3KTbQeDAR34KSmZ6xg"
+  }
+}
